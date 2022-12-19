@@ -17,3 +17,17 @@ These pages were collected from computer science departments of various universi
 <br><img width="257" alt="image" src="https://user-images.githubusercontent.com/61377755/208338911-90c3fb85-0a7b-4a06-bb1e-6af174bffb99.png">
 
 More details can be found on the link: [Ana Cardoso Cachopo's Homepage](https://ana.cachopo.org/datasets-for-single-label-text-categorization)
+
+
+
+
+
+@Misc{2007:phd-Ana-Cardoso-Cachopo,   
+
+  author = {Ana Cardoso-Cachopo},
+
+  title = {{Improving Methods for Single-label Text Categorization}},
+
+  howpublished = {PdD Thesis, Instituto Superior Tecnico, Universidade Tecnica de Lisboa},
+
+  year = 2007} 
