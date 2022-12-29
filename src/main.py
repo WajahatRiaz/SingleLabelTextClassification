@@ -1,3 +1,7 @@
+# Author: Wajahat Riaz 
+# License: Apache-2.0
+# Github Link: https://github.com/WajahatRiaz/SingleLabelTextClassification.git
+
 from __future__ import unicode_literals, print_function, division
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
