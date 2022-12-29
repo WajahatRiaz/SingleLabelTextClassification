@@ -1,4 +1,4 @@
-# Single Label Text Classification using SCikit-learn
+# Single Label Text Classification using Scikit-learn
 
 ## 1. Introduction
 Text Classification techniques are necessary to find relevant information in many different tasks that deal with large quantities of information in text form. Some of the most common tasks where these techniques are applied include: finding answers to similar questions that have been answered before; classifying news by subject or newsgroup; sorting spam from legitimate e-mail messages; finding web pages on a given subject, among others. In each case, the goal is to assign the appropriate class or label to each document that needs to be classified.
